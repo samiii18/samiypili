@@ -1,0 +1,29 @@
+header{
+    background-color: rgb(210, 179, 240);
+    display: flex;
+    justify-content:center;
+  height: 20vh;
+  padding: 20px;
+margin: 20px;
+
+}
+
+body{
+    color: aliceblue;
+    font-size: 2rem;
+
+}
+
+header>img{
+    width: 10%;
+
+}
+#imagen{
+
+    width: 200px;
+    height: 150px;
+}
+
+header div{
+    margin-right: 30px;
+}
